@@ -8,9 +8,9 @@ Can extract "FriendsManagement.zip"
   
 How To Test:
 
-Case #1: http://localhost:8080/fm/addFriend
-Case #2: http://localhost:8080/fm/friends
-Case #3: http://localhost:8080/fm/commonFriend
-Case #4: http://localhost:8080/fm/subscribe
-Case #5: http://localhost:8080/fm/blockUpdates
-Case #6: http://localhost:8080/fm/subscribers
+- Case #1: http://localhost:8080/fm/addFriend
+- Case #2: http://localhost:8080/fm/friends
+- Case #3: http://localhost:8080/fm/commonFriend
+- Case #4: http://localhost:8080/fm/subscribe
+- Case #5: http://localhost:8080/fm/blockUpdates
+- Case #6: http://localhost:8080/fm/subscribers
